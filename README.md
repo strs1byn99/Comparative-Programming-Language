@@ -3,6 +3,16 @@
 
 ## Tiny Language Interpreter in Haskell
 
+The language contains just four types of statements:
+
+let *variableName* = *expression*
+
+if *expression* goto *label*
+
+print *expression1*, *expression2*, ...
+
+input *variableName*
+
 Here is a tiny language program that prints out a sequence of numbers:
 ```
 input start
