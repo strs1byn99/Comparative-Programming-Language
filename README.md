@@ -5,13 +5,13 @@
 
 The language contains just four types of statements:
 
-let *variableName* = *expression*
+**let *variableName* = *expression***
 
-if *expression* goto *label*
+**if *expression* goto *label***
 
-print *expression1*, *expression2*, ...
+**print *expression1*, *expression2*, ...**
 
-input *variableName*
+**input *variableName***
 
 Here is a tiny language program that prints out a sequence of numbers:
 ```
