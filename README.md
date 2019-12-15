@@ -1,7 +1,7 @@
 # CSE 112 - Comparative Programming Language 
 (Former CS112)
 
-## Tiny Language Interpreter in Haskell
+## Tiny Language Interpreter in three different versions
 
 The language contains just four types of statements:
 
