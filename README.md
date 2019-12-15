@@ -1,17 +1,17 @@
 # CSE 112 - Comparative Programming Language 
 (Former CS112)
 
-## Tiny Language Interpreter in three different versions
+## Tiny Language Interpreter in Three Different Versions
 
 The language contains just four types of statements:
 
-**let *variableName* = *expression***
+**let** *variableName* **=** *expression*
 
-**if *expression* goto *label***
+**if** *expression* **goto** *label*
 
-**print *expression1*, *expression2*, ...**
+**print** *expression1*, *expression2*, ...
 
-**input *variableName***
+**input** *variableName*
 
 Here is a tiny language program that prints out a sequence of numbers:
 ```
