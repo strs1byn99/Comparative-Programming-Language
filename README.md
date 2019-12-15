@@ -15,13 +15,13 @@ The language contains just four types of statements:
 
 Here is a tiny language program that prints out a sequence of numbers:
 ```
-input start
-input end
-let x = start
+      input start
+      input end
+      let x = start
 repeat: print x
-let x = x + 1
-if x < end goto repeat
-print "that's all", x
+      let x = x + 1
+      if x < end goto repeat
+      print "that's all", x
 ```
 The program should produce:
 ```
