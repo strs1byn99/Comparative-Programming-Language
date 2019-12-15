@@ -3,7 +3,7 @@
 
 ## Tiny Language Interpreter in Three Different Versions
 
-The language contains just four types of statements:
+Tiny Language contains just four types of statements:
 
 **let** *variableName* **=** *expression*
 
